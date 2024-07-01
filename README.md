@@ -5,3 +5,6 @@ Simple project created using HTML, CSS and JavaScript
 - add a new task
 - check it as done
 - delete the preview task
+
+## Preview
+![preview of the project](assests/preview.png)
